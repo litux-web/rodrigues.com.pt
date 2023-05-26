@@ -1,0 +1,4 @@
+[submodule "litux.org"]
+	path = litux.org
+	url = git@github.com:litux-web/litux.org.git
+	branch = docs
